@@ -16,7 +16,7 @@ from discord.embeds import Embed, EmptyEmbed
 from discord.ext import tasks, commands
 import aiohttp
 from discord.ext.commands import Bot, Cog
-from discord_components import DiscordComponents, Button, ButtonStyle, InteractionType
+from discord_components import DiscordComponents, Button, ButtonStyle
 from discord.ext.commands.converter import GameConverter
 from PIL import Image, ImageFont, ImageDraw
 from io import BytesIO

@@ -20,7 +20,7 @@ import aiohttp
 import datetime, time
 from discord.ext.commands import Bot, Cog, has_permissions, GameConverter, Converter
 #from discord.ext.commands.core import has_permissions
-from discord_components import DiscordComponents, Button, ButtonStyle, InteractionType, component
+from discord_components import DiscordComponents, Button, ButtonStyle, component
 #from discord.ext.commands.converter import GameConverter
 from PIL import Image, ImageFont, ImageDraw
 from io import BytesIO
