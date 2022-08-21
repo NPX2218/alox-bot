@@ -7,7 +7,7 @@ import random
 import string
 from discord import user
 from discord.flags import PublicUserFlags
-from discord_components import DiscordComponents, Button, ButtonStyle, InteractionType, component
+from discord_components import DiscordComponents, Button, ButtonStyle, component
 import asyncio
 import aiohttp
 from discord.ext import commands

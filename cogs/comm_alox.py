@@ -8,7 +8,7 @@ import discord
 import sys
 import random
 import string
-from discord_components import DiscordComponents, Button, ButtonStyle, InteractionType
+from discord_components import DiscordComponents, Button, ButtonStyle
 import asyncio
 from discord import colour
 from discord import embeds

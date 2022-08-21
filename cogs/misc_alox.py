@@ -11,7 +11,7 @@ import PIL
 from discord_components import component
 import psutil
 from discord.ext import commands
-from discord_components import DiscordComponents, Button, ButtonStyle, InteractionType
+from discord_components import DiscordComponents, Button, ButtonStyle
 
 
 #---------------------------------------------------------------------#

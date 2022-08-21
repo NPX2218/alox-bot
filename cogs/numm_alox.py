@@ -148,7 +148,7 @@ class numm_alox(commands.Cog):
 
     @commands.command()
     async def pythag(self, ctx, base : float, height : float):
-        embedPythag = discord.Embed(title='Triangle\'s Hypotenuse', colour = 3447003)
+        embedPythag = discord.Embed(title='Triangle\'s Hypotenuse', colour = 16776960)
         embedPythag.set_thumbnail(url='https://www.piday.org/wp-content/uploads/2019/06/word-image-20.png')
         embedPythag.add_field(name = 'Values', value=f"""
         **Base:** ```{base}```

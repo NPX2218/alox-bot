@@ -26,8 +26,6 @@ global startTime
 client.startTime = time.time()
 load_dotenv()
 client.GiphyKey = os.getenv("GIPHY_API_KEY")
-#url = 'https://www.twitch.tv/python'
-#Removing the command so it can be used in a custom way.
 client.remove_command("help")
 
 #---------------------------------------------------------------------#
